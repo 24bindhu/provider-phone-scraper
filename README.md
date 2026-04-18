@@ -33,3 +33,8 @@ This project automates extraction of phone numbers from the Virginia DBHDS Provi
 ```bash
 pip install -r requirements.txt
 python -m playwright install
+
+
+
+##How to Run
+python scraper.py
