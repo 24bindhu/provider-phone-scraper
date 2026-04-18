@@ -38,3 +38,24 @@ python -m playwright install
 
 ##How to Run
 python scraper.py
+
+
+
+
+
+
+
+
+1. Clone the repo
+git clone <your-repo-link>
+cd provider-phone-scraper
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3.Install Playwright browsers
+python -m playwright install
+
+
+4.Run the script
+python scraper.py
